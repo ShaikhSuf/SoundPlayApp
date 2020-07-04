@@ -6,6 +6,6 @@ This website is intended for fun purpose. Users can press keys from a to z from 
 - Express framework
 - CSS 
 - PaperJs
-- HTML
+- HTML1
 
 Application Link - https://soundplayapp.herokuapp.com/
