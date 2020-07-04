@@ -3,12 +3,15 @@ canvas{
 	height: 92%;
 	background: black;
 	margin:	0;
+	padding:0;
 }
 
-body, html{
+html, body{
 	height: 100%;
 	margin: 0;
+	padding:0;
 }
+
 
 h1{
 	background: #2980b9;
