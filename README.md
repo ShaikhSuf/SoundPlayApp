@@ -8,4 +8,4 @@ This website is intended for fun purpose. Users can press keys from a to z from 
 - PaperJs
 - HTML
 
-Application Link - https://soundplayapp.herokuapp.com/
+**Application Link** - https://soundplayapp.herokuapp.com/
